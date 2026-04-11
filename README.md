@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy Daniel Fernando Castillo Mera
 
-### 💻 Desarrollador Full-Stack Junior | Estudiante de Ingeniería en Software
+### 💻 Junior Full Stack Engineer/Developer | Estudiante de Ingeniería en Software
 
 <br>
 
@@ -19,16 +19,16 @@
 
 ```yaml
 Nombre:       Daniel Fernando Castillo Mera
-Rol:          Desarrollador Full-Stack Junior
+Rol:          Junior Full Stack Engineer/Developer
 Universidad:  Universidad de Guayaquil
 Carrera:      Ingeniería en Software (6/10 semestre)
 Ubicación:    Ecuador 🇪🇨
-Edad:         22 años
+Edad:         21 años
 Inglés:       Intermedio-Avanzado (B2)
 Disponibilidad: Inmediata — Abierto a nuevas oportunidades
 ```
 
-Soy un **Desarrollador Full-Stack Junior** apasionado por la tecnología y en constante aprendizaje. Actualmente curso el **6to semestre de Ingeniería en Software** en la **Universidad de Guayaquil**. Me especializo en construir aplicaciones web modernas, funcionales y con impacto real — **todos mis proyectos están desplegados en producción**. 🚀
+Soy un **Junior Full Stack Engineer/Developer** apasionado por la tecnología y en constante aprendizaje. Actualmente curso el **6to semestre de Ingeniería en Software** en la **Universidad de Guayaquil**. Me especializo en construir aplicaciones web modernas, funcionales y con impacto real — **todos mis proyectos están desplegados en producción**. 🚀
 
 ---
 
@@ -36,7 +36,7 @@ Soy un **Desarrollador Full-Stack Junior** apasionado por la tecnología y en co
 
 <div align="center">
 
-### 🏢 [Dashboard Enterprise v2.5.0](https://github.com/danielcastillomera/dashboard-enterprise)
+### 🏢 [Dashboard Enterprise v3.4.0](https://github.com/danielcastillomera/dashboard-enterprise)
 
 [![Repo Stars](https://img.shields.io/github/stars/danielcastillomera/dashboard-enterprise?style=social)](https://github.com/danielcastillomera/dashboard-enterprise)
 [![Repo Forks](https://img.shields.io/github/forks/danielcastillomera/dashboard-enterprise?style=social)](https://github.com/danielcastillomera/dashboard-enterprise)
@@ -112,7 +112,7 @@ Soy un **Desarrollador Full-Stack Junior** apasionado por la tecnología y en co
 
 <div align="center">
 
-💼 Estoy **disponible para contratación inmediata**. Si buscas un desarrollador Full-Stack con pasión por aprender y entregar resultados, ¡hablemos!
+💼 Estoy **disponible para contratación inmediata**. Si buscas un Junior Full Stack Engineer/Developer con pasión por aprender y entregar resultados, ¡hablemos!
 
 <br>
 
