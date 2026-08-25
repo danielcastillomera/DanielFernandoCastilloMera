@@ -26,7 +26,7 @@
 ---
 
 <a id="español"></a>
-### 🇪🇸 Español (Ecuador)
+### 🇪🇨 Español (Ecuador)
 Soy estudiante de séptimo semestre de Ingeniería de Software (Universidad de Guayaquil) y un desarrollador Junior Full Stack orientado a resultados. Mi enfoque principal es el **AI-Assisted Development** (utilizando la API de Claude y GitHub Copilot) para acelerar el desarrollo de arquitecturas complejas bajo metodologías ágiles (Scrum). 
 * 🔭 **Actualmente trabajando en:** `Dashboard Enterprise` (SaaS Multi-tenant) y mi `Portafolio v8.0.0`.
 * ⚡ **Enfoque técnico:** Arquitecturas limpias (SOLID, DRY), microservicios, y diseño UI/UX (Accesibilidad WCAG 2.1 AA).
