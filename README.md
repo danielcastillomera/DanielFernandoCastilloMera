@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Botones de navegación de idioma -->
   <h4> 
-    <a href="#español">🇪🇸 Español</a> | <a href="#english">🇺🇸 English</a> 
+    <a href="#español">🇪🇨 Español</a> | <a href="#english">🇺🇸 English</a> 
   </h4>
 
   <!-- Animación de terminal -->
